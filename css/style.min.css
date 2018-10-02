@@ -2369,7 +2369,7 @@ samp:not(.doc) {
 }
 
 .index-splash-image:not(.no-filter) {
-  filter: blur(2px)
+  
 }
 
 h1.splash {
